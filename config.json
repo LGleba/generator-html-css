@@ -1,0 +1,6 @@
+{
+  "dir_input": "input",
+  "dir_output": "../result",
+  "dir_templates": "templates",
+  "version": 1
+}
